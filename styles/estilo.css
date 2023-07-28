@@ -1,0 +1,22 @@
+*{
+  margin: 2px;
+  padding: 2px;
+}
+
+form, div{
+  background-color: #A1DFF2;
+  padding-right: 10px;
+  text-decoration: underline;
+  height: 5rem;
+  width: 15rem;
+}
+
+div{
+  height: 3rem;
+  margin-top: -2px;
+}
+
+
+div{
+  text-align: right;
+}
